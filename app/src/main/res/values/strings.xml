@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="btn_add1_lebal">FREE THROW</string>
+    <string name="btn_add2_lebal">+2 POINTS</string>
+    <string name="btn_add3_lebal">+3 POINTS</string>
+    <string name="btn_reset_lebal">RESET</string>
+    <string name="text_score_lebal">SCORE</string>
+    <string name="text_teamA_lebal">Team A</string>
+    <string name="text_teamB_lebal">Team B</string>
+    <string name="bmi_text_lebal_height">输入身高（M）</string>
+    <string name="bmi_text_lebal_weight">输入体重（KG）</string>
+    <string name="bmi_button_lebal_submit">提 交</string>
+</resources>
